@@ -18,6 +18,7 @@ zhihu.com##.AutoComplete-group:first-child
 zhihu.com##.css-9cqq7d
 bilibili.com##.trending
 bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
+https://api.bilibili.com/x/web-interface/search/default
 !-----------------------------------Others------------------------------------!
 bilibili.com##.reply-notice
 bilibili.com##.v-popover-wrap:nth-last-child(2)
