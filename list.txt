@@ -12,6 +12,8 @@
 !-----------------------General advert blocking filters-----------------------!
 
 !-----------------------------In-site advertising-----------------------------!
+zhihu.com##.Card.ReadingMembership
+zhihu.com##.Card[data-za-detail-view-path-module_name="相关推荐"]
 bilibili.com##.video-page-special-card
 
 !-----------------------------------Trends------------------------------------!
@@ -26,6 +28,7 @@ bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
 !-----------------------------------Others------------------------------------!
 bilibili.com##.reply-notice
 bilibili.com##.v-popover-wrap:nth-last-child(2)
+bilibili.com###reco_list~*
 
 !---------------------------------Temporary-----------------------------------!
 !----------------------------------The End------------------------------------!
