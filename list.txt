@@ -15,6 +15,7 @@ bilibili.com##.video-page-special-card
 !-----------------------------------Trends------------------------------------!
 zhihu.com##.Card.TopSearch.TopSearch--new
 zhihu.com##.AutoComplete-group:first-child
+zhihu.com##.css-9cqq7d
 bilibili.com##.trending
 bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
 !-----------------------------------Others------------------------------------!
