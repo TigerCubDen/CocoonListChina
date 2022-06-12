@@ -15,12 +15,13 @@
 bilibili.com##.video-page-special-card
 
 !-----------------------------------Trends------------------------------------!
+||zhihu.com/api/v4/search/preset_words
 zhihu.com##.Card.TopSearch.TopSearch--new
 zhihu.com##.AutoComplete-group:first-child
 zhihu.com##.css-9cqq7d
+||api.bilibili.com/x/web-interface/search/default
 bilibili.com##.trending
 bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
-https://api.bilibili.com/x/web-interface/search/default
 
 !-----------------------------------Others------------------------------------!
 bilibili.com##.reply-notice
