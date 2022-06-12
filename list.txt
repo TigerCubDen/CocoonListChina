@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: CocoonList China
+! Chinese Enhancement for the CocoonList filters
+! Last modified: %timestamp%
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/TigerCubDen/CocoonListChina/
+! License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans
+!
+! Please report any unblocked adverts or problems
+! on GitHub (https://github.com/TigerCubDen/CocoonListChina/issues)
+!
+!-----------------------General advert blocking filters-----------------------!
+!-----------------------------In-site advertising-----------------------------!
+bilibili.com##.video-page-special-card
+!-----------------------------------Trends------------------------------------!
+zhihu.com##.Card.TopSearch.TopSearch--new
+zhihu.com##.AutoComplete-group:first-child
+bilibili.com##.trending
+bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
+!-----------------------------------Others------------------------------------!
+bilibili.com##.reply-notice
+bilibili.com##.v-popover-wrap:nth-last-child(2)
+!---------------------------------Temporary-----------------------------------!
+!----------------------------------The End------------------------------------!
