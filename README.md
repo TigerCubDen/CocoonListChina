@@ -34,4 +34,4 @@
 - 屏蔽 bilibili 右侧引流栏
 <div><img width="360px" src="docs/resources/compare_bilibili_0.png">&nbsp;&nbsp;&nbsp;<img width="360px" src="docs/resources/compare_bilibili_1.png"></div>
 
-#### *本规则虽为自用，但欢迎大家踊跃贡献。*
+#### *本规则虽为自用，但欢迎大家踊跃贡献，使之成为公共项目。*
