@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.1]
 ! Title: CocoonList China
 ! Chinese Enhancement for the CocoonList filters
 ! Last modified: %timestamp%
@@ -20,12 +20,12 @@ bilibili.com##.video-page-special-card
 ||zhihu.com/api/v4/search/preset_words
 zhihu.com##.Card.TopSearch.TopSearch--new
 zhihu.com##.AutoComplete-group:first-child
-zhihu.com##.css-9cqq7d
 ||api.bilibili.com/x/web-interface/search/default
 bilibili.com##.trending
 bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
 
 !-----------------------------------Others------------------------------------!
+zhihu.com##.css-9cqq7d
 bilibili.com##.reply-notice
 bilibili.com##.v-popover-wrap:nth-last-child(2)
 bilibili.com###reco_list~*
