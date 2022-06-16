@@ -13,6 +13,7 @@
 
 !-----------------------------In-site advertising-----------------------------!
 zhihu.com##.Card.ReadingMembership
+zhihu.com##.Topstory>div:first-child
 zhihu.com##.Card[data-za-detail-view-path-module_name="相关推荐"]
 bilibili.com##.video-page-special-card
 

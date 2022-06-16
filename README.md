@@ -27,7 +27,7 @@
 ## 效果展示
 
 - 屏蔽知乎上的热搜
-<div><img width="360px" src="docs/resources/compare_zhihu_0.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="360px" src="docs/resources/compare_zhihu_1.png"></div>
+<div><img width="360px" src="docs/resources/compare_zhihu_0.png">&nbsp;&nbsp;&nbsp;<img width="360px" src="docs/resources/compare_zhihu_1.png"></div>
 
 <br>
 
