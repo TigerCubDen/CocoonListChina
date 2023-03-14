@@ -11,25 +11,18 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 
-!-----------------------------In-site advertising-----------------------------!
-zhihu.com##.Card.ReadingMembership
-zhihu.com##.Topstory>div:first-child
-zhihu.com##.Card[data-za-detail-view-path-module_name="相关推荐"]
-bilibili.com##.video-page-special-card
+! 2023-03-11 https://www.baidu.com
+www.baidu.com###content_right
 
-!-----------------------------------Trends------------------------------------!
+! 2023-03-14 https://www.bilibili.com
+www.bilibili.com##.video-page-special-card-small
+www.bilibili.com##.scroll-sticky.right-container-inner > .ad-floor-exp.ad-report
+||api.bilibili.com/x/web-interface/wbi/search/*
+
+! 2023-03-14 https://www.zhihu.com
+||zhihu.com/api/v4/moments/recommend_follow_people*
+||zhihu.com/api/v4/creators/extra_card
 ||zhihu.com/api/v4/search/preset_words
-zhihu.com##.Card.TopSearch.TopSearch--new
-zhihu.com##.AutoComplete-group:first-child
-||api.bilibili.com/x/web-interface/search/default
-bilibili.com##.trending
-bilibili.com##.activity-m.report-wrap-module.report-scroll-module.act-end
+||zhihu.com/api/v4/search/top_search
 
-!-----------------------------------Others------------------------------------!
-zhihu.com##.css-9cqq7d
-bilibili.com##.reply-notice
-bilibili.com##.v-popover-wrap:nth-last-child(2)
-bilibili.com###reco_list~*
-
-!---------------------------------Temporary-----------------------------------!
 !----------------------------------The End------------------------------------!
