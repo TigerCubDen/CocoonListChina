@@ -17,12 +17,16 @@ www.baidu.com###content_right
 ! 2023-03-14 https://www.bilibili.com
 www.bilibili.com##.video-page-special-card-small
 www.bilibili.com##.scroll-sticky.right-container-inner > .ad-floor-exp.ad-report
+www.bilibili.com##.adblock-tips
 ||api.bilibili.com/x/web-interface/wbi/search/*
+||api.live.bilibili.com/xlive/web-interface/v1/webMain/getVideoRecList*
+||api.bilibili.com/x/web-show/wbi/res/locs*
 
 ! 2023-03-14 https://www.zhihu.com
 ||zhihu.com/api/v4/moments/recommend_follow_people*
 ||zhihu.com/api/v4/creators/extra_card
 ||zhihu.com/api/v4/search/preset_words
 ||zhihu.com/api/v4/search/top_search
+||zhihu.com/api/v4/market/rhea/questions/*
 
 !----------------------------------The End------------------------------------!
