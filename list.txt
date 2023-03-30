@@ -29,4 +29,9 @@ www.bilibili.com##.adblock-tips
 ||zhihu.com/api/v4/search/top_search
 ||zhihu.com/api/v4/market/rhea/questions/*
 
+! 2023-03-26 https://www.ghxi.com
+www.ghxi.com##div:nth-of-type(5)
+www.ghxi.com##div:nth-of-type(6)
+www.ghxi.com##div:nth-of-type(7)
+
 !----------------------------------The End------------------------------------!
