@@ -18,7 +18,8 @@ www.baidu.com###content_right
 www.bilibili.com##.video-page-special-card-small
 www.bilibili.com##.scroll-sticky.right-container-inner > .ad-floor-exp.ad-report
 www.bilibili.com##.adblock-tips
-||api.bilibili.com/x/web-interface/wbi/search/*
+||api.bilibili.com/x/web-interface/wbi/search/default*
+||api.bilibili.com/x/web-interface/wbi/search/square*
 ||api.live.bilibili.com/xlive/web-interface/v1/webMain/getVideoRecList*
 ||api.bilibili.com/x/web-show/wbi/res/locs*
 
