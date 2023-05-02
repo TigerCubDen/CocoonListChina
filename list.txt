@@ -13,13 +13,14 @@
 
 ! 2023-03-11 https://www.baidu.com
 www.baidu.com###content_right
+www.baidu.com##.s-hotsearch-wrapper.s-isindex-wrap
 
 ! 2023-03-14 https://www.bilibili.com
 www.bilibili.com##.video-page-special-card-small
 www.bilibili.com##.scroll-sticky.right-container-inner > .ad-floor-exp.ad-report
 www.bilibili.com##.adblock-tips
 www.bilibili.com##.reply-box-textarea::-webkit-input-placeholder
-www.bilibili.com##.ipt-txt::-webkit-input-placeholder
+bilibili.com##.ipt-txt::-webkit-input-placeholder
 ||api.bilibili.com/x/web-interface/wbi/search/default*
 ||api.bilibili.com/x/web-interface/wbi/search/square*
 ||api.live.bilibili.com/xlive/web-interface/v1/webMain/getVideoRecList*
@@ -33,8 +34,7 @@ www.bilibili.com##.ipt-txt::-webkit-input-placeholder
 ||zhihu.com/api/v4/market/rhea/questions/*
 
 ! 2023-03-26 https://www.ghxi.com
-www.ghxi.com##div:nth-of-type(5)
-www.ghxi.com##div:nth-of-type(6)
-www.ghxi.com##div:nth-of-type(7)
+www.ghxi.com##body > div:nth-of-type(6)
+www.ghxi.com##body > div:nth-of-type(7)
 
 !----------------------------------The End------------------------------------!
