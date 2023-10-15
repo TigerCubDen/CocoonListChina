@@ -14,6 +14,7 @@
 ! 2023-03-11 https://www.baidu.com
 www.baidu.com###content_right
 www.baidu.com##.s-hotsearch-wrapper.s-isindex-wrap
+www.baidu.com##.under-searchbox-tips
 
 ! 2023-03-14 https://www.bilibili.com
 www.bilibili.com##.video-page-special-card-small
@@ -34,6 +35,7 @@ bilibili.com##.ipt-txt::-webkit-input-placeholder
 ||zhihu.com/api/v4/search/preset_words
 ||zhihu.com/api/v4/search/top_search
 ||zhihu.com/api/v4/market/rhea/questions/*
+||www.zhihu.com/api/v4/search/recommend_query/v2
 
 ! 2023-03-26 https://www.ghxi.com
 www.ghxi.com##body > div:nth-of-type(6)
